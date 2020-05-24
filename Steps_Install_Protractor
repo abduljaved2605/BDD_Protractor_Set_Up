@@ -1,0 +1,14 @@
+Install protractor
+ 
+ 
+ npm install -g protractor
+ 
+ npm install -g --force protractor@2.5.1
+ 
+ webdriver-manager update
+ 
+  webdriver-manager start
+  
+  npm cache clean --force
+  
+  npm install cypress --save-dev

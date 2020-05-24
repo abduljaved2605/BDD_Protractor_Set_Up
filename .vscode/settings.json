@@ -1,0 +1,8 @@
+{
+    "cucumberautocomplete.steps": [
+        "C:/Automation/May_16_Protracotr/Automation_test/cucumber/StepDefination/*.js",
+    ],
+    "cucumberautocomplete.syncfeatures": "C:/Automation/May_16_Protracotr/Automation_test/cucumber/Feature/*.js",
+    "cucumberautocomplete.strictGherkinCompletion": true
+	
+}
